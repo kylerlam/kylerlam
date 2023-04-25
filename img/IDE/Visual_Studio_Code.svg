@@ -1,0 +1,35 @@
+<svg width="141.35" height="25" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <mask maskUnits="userSpaceOnUse" height="18.95" width="19.06" y="3.5" x="2.01" id="mask">
+   <g id="svg_1">
+    <g id="mask0">
+     <path id="svg_2" fill-rule="evenodd" fill="#fff" d="m15.53,22.36a1.21,1.21 0 0 0 0.95,0l3.92,-1.89a1.2,1.2 0 0 0 0.67,-1.07l0,-12.83a1.2,1.2 0 0 0 -0.67,-1.07l-3.92,-1.89a1.19,1.19 0 0 0 -1.21,0.11l-0.15,0.13l-7.5,6.84l-3.27,-2.48a0.79,0.79 0 0 0 -1,0l-1.05,1a0.78,0.78 0 0 0 0,1.17l2.82,2.55l-2.83,2.59a0.78,0.78 0 0 0 0,1.17l1.05,1a0.79,0.79 0 0 0 1,0l3.27,-2.48l7.5,6.85a1.36,1.36 0 0 0 0.42,0.3zm0.78,-13.71l-5.69,4.28l5.69,4.32l0,-8.6z" class="cls-1"/>
+    </g>
+   </g>
+  </mask>
+  <linearGradient y2="0.99852" x2="0.49893" y1="0.0003" x1="0.49893" id="linear-gradient">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-opacity="0" stop-color="#fff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="Office">
+   <rect id="svg_3" fill="#3c3c3b" rx="7" height="25" width="141.35" class="cls-2"/>
+   <text id="svg_4" font-family="ArialMT, Arial" font-size="13.59px" fill="#fff" transform="translate(23.78 17.67) scale(0.99 1)" class="cls-3">
+    <tspan id="svg_5" letter-spacing="-0.02em" class="cls-4">V</tspan>
+    <tspan id="svg_6" y="0" x="8.82">isual Studio Code</tspan>
+   </text>
+  </g>
+  <g data-name="Visual Studio Code" id="Visual_Studio_Code">
+   <g id="svg_7" mask="url(#mask)" class="cls-5">
+    <path id="svg_8" fill="#0866aa" d="m20.4,5.5l-3.93,-1.88a1.18,1.18 0 0 0 -1.35,0.23l-12.85,11.71a0.79,0.79 0 0 0 0,1.17l1,1a0.8,0.8 0 0 0 1,0l15.54,-11.74a0.79,0.79 0 0 1 1.26,0.63l0,0a1.2,1.2 0 0 0 -0.67,-1.12z" class="cls-6"/>
+    <path id="svg_9" fill="#2178bd" d="m20.4,20.44l-3.93,1.89a1.21,1.21 0 0 1 -1.35,-0.23l-12.85,-11.72a0.79,0.79 0 0 1 0,-1.17l1,-1a0.8,0.8 0 0 1 1,0l15.54,11.72a0.79,0.79 0 0 0 1.26,-0.63l0,0a1.2,1.2 0 0 1 -0.67,1.14z" class="cls-7"/>
+    <path id="svg_10" fill="#4096d2" d="m16.47,22.33a1.21,1.21 0 0 1 -1.35,-0.23a0.7,0.7 0 0 0 1.19,-0.5l0,-17.26a0.7,0.7 0 0 0 -1.19,-0.49a1.19,1.19 0 0 1 1.35,-0.24l3.93,1.89a1.2,1.2 0 0 1 0.67,1.07l0,12.8a1.2,1.2 0 0 1 -0.67,1.07l-3.93,1.89z" class="cls-8"/>
+    <g id="svg_11" opacity="0.25" class="cls-9">
+     <path id="svg_12" fill="url(#linear-gradient)" fill-rule="evenodd" d="m15.52,22.36a1.21,1.21 0 0 0 1,0l3.92,-1.89a1.2,1.2 0 0 0 0.67,-1.07l0,-12.83a1.2,1.2 0 0 0 -0.67,-1.07l-3.92,-1.89a1.21,1.21 0 0 0 -1.22,0.11l-0.14,0.13l-7.5,6.84l-3.32,-2.48a0.8,0.8 0 0 0 -1,0l-1,1a0.79,0.79 0 0 0 0,1.17l2.77,2.55l-2.84,2.59a0.79,0.79 0 0 0 0,1.17l1,1a0.8,0.8 0 0 0 1,0l3.27,-2.48l7.5,6.85a1.36,1.36 0 0 0 0.48,0.3zm0.78,-13.71l-5.69,4.28l5.69,4.32l0,-8.6z" class="cls-10"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

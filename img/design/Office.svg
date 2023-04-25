@@ -1,0 +1,51 @@
+<svg width="61.91" height="25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient y2="0.93324" x2="0.50291" y1="-0.05818" x1="0.50291" id="linear-gradient">
+   <stop stop-color="#fbb818" offset="0"/>
+   <stop stop-color="#ef860a" offset="0.17"/>
+   <stop stop-color="#e15f10" offset="0.31"/>
+   <stop stop-color="#da4716" offset="0.43"/>
+   <stop stop-color="#d83c18" offset="0.5"/>
+  </linearGradient>
+  <linearGradient y2="0.92743" x2="-0.15363" y1="-0.02133" x1="0.85637" id="linear-gradient-2">
+   <stop stop-color="#801712" offset="0"/>
+   <stop stop-color="#c92427" offset="0.6"/>
+   <stop stop-color="#c33b5b" offset="0.73"/>
+   <stop stop-color="#bf4c83" offset="0.85"/>
+   <stop stop-color="#b9599b" offset="0.94"/>
+   <stop stop-color="#b75d9f" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="0.50058" x2="1.91676" y1="0.50058" x1="0.07721" id="linear-gradient-3">
+   <stop stop-color="#e73449" offset="0"/>
+   <stop stop-color="#a51c18" offset="0.6"/>
+  </linearGradient>
+  <linearGradient y2="0.15844" x2="0.65637" y1="-0.0413" x1="0.87637" id="linear-gradient-4">
+   <stop stop-opacity="0.4" stop-color="#010202" offset="0"/>
+   <stop stop-opacity="0" stop-color="#010202" offset="1"/>
+  </linearGradient>
+  <linearGradient xlink:href="#linear-gradient-4" gradientTransform="matrix(7.75, 0, 0, -4.67, 0.24, 135.42)" y2="17.38" x2="74.06" y1="17.93" x1="80.45" id="linear-gradient-5"/>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" fill="#3c3c3b" rx="7" height="25" width="61.91" class="cls-1"/>
+  <text id="svg_2" fill="#fff" font-family="ArialMT, Arial" font-size="13.59px" transform="translate(23.78 17.67) scale(0.99 1)" class="cls-2">O
+   <tspan id="svg_3" letter-spacing="-0.02em" y="0" x="10.57" class="cls-3">f</tspan>
+   <tspan id="svg_4" letter-spacing="0em" y="0" x="14.1" class="cls-4">fice</tspan></text>
+  <g data-name="Icons - Color" id="Icons_-_Color">
+   <g data-name="Desktop - Full Bleed" id="Desktop_-_Full_Bleed">
+    <g opacity="0.2" class="cls-5" data-name="svg 5" id="svg_5">
+     <path fill="#fff" d="m8.47,18.42a1.12,1.12 0 0 0 -1.11,1.14a1.09,1.09 0 0 0 0.56,1l4,2.25a2.25,2.25 0 0 0 1.07,0.28a2.89,2.89 0 0 0 0.59,-0.08l6,-1.7a2.14,2.14 0 0 0 1.55,-2l0,-0.79l-12.66,-0.1z" class="cls-6" data-name="svg 6" id="svg_6"/>
+    </g>
+    <g opacity="0.12" class="cls-7" data-name="svg 7" id="svg_7">
+     <path fill="#fff" d="m8.47,18.42a1.12,1.12 0 0 0 -1.11,1.14a1.09,1.09 0 0 0 0.56,1l4,2.25a2.25,2.25 0 0 0 1.07,0.28a2.89,2.89 0 0 0 0.59,-0.08l6,-1.7a2.14,2.14 0 0 0 1.55,-2l0,-0.79l-12.66,-0.1z" class="cls-6" data-name="svg 8" id="svg_8"/>
+    </g>
+    <path fill="url(#linear-gradient)" d="m13.52,2.03l1.59,3.65l0,12.74l-1.58,4.51l6,-1.7a2.14,2.14 0 0 0 1.55,-2l0,-13.45a2.12,2.12 0 0 0 -1.55,-2l-6.01,-1.75z" class="cls-8" data-name="svg 9" id="svg_9"/>
+    <path fill="url(#linear-gradient-2)" d="m5.96,18.29l1.75,-1a1.49,1.49 0 0 0 0.78,-1.36l0,-6.8a1.51,1.51 0 0 1 1,-1.43l5.62,-2l0,-1.55a2.19,2.19 0 0 0 -1.6,-2.12a1.74,1.74 0 0 0 -0.6,-0.08l0,0a2.23,2.23 0 0 0 -1.1,0.29l-6.44,3.69a2.13,2.13 0 0 0 -1.07,1.85l0,9.54a1.12,1.12 0 0 0 1.12,1.12l0,0a1.26,1.26 0 0 0 0.54,-0.15z" class="cls-9" data-name="svg 10" id="svg_10"/>
+    <path fill="url(#linear-gradient-3)" d="m15.11,18.42l-6.64,0a1.12,1.12 0 0 0 -1.11,1.14a1.09,1.09 0 0 0 0.56,1l4,2.25a2.25,2.25 0 0 0 1.07,0.28l0,0a2.89,2.89 0 0 0 0.59,-0.08a2.19,2.19 0 0 0 1.53,-2.15l0,-2.44z" class="cls-10" data-name="svg 11" id="svg_11"/>
+    <path fill="url(#linear-gradient-4)" d="m5.96,18.29l1.75,-1a1.49,1.49 0 0 0 0.78,-1.36l0,-6.8a1.51,1.51 0 0 1 1,-1.43l5.62,-2l0,-1.55a2.19,2.19 0 0 0 -1.6,-2.12a1.74,1.74 0 0 0 -0.6,-0.08l0,0a2.23,2.23 0 0 0 -1.1,0.29l-6.44,3.69a2.13,2.13 0 0 0 -1.07,1.85l0,9.54a1.12,1.12 0 0 0 1.12,1.12l0,0a1.26,1.26 0 0 0 0.54,-0.15z" class="cls-11" data-name="svg 12" id="svg_12"/>
+    <path fill="url(#linear-gradient-5)" d="m15.11,18.42l-6.64,0a1.12,1.12 0 0 0 -1.11,1.14a1.09,1.09 0 0 0 0.56,1l4,2.25a2.25,2.25 0 0 0 1.07,0.28l0,0a2.89,2.89 0 0 0 0.59,-0.08a2.19,2.19 0 0 0 1.53,-2.15l0,-2.44z" class="cls-12" data-name="svg 13" id="svg_13"/>
+    <rect fill="none" height="22.32" width="22.32" y="1.34" x="1.52" class="cls-13" data-name="svg 14" id="svg_14"/>
+   </g>
+  </g>
+ </g>
+</svg>

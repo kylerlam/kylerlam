@@ -1,0 +1,63 @@
+<svg width="80.9" height="25" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient y2="0.68082" x2="0.73941" y1="0.68082" x1="-0.48706" id="linear-gradient">
+   <stop stop-color="#56b681" offset="0"/>
+   <stop stop-color="#2bbdec" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="0.04276" x2="1.42377" y1="0.86013" x1="-0.61884" id="linear-gradient-2">
+   <stop stop-color="#f5e952" offset="0.01"/>
+   <stop stop-color="#aacc5f" offset="0.11"/>
+   <stop stop-color="#77bc71" offset="0.21"/>
+   <stop stop-color="#5fb77c" offset="0.27"/>
+   <stop stop-color="#56b681" offset="0.31"/>
+   <stop stop-color="#56b681" offset="0.58"/>
+   <stop stop-color="#56b681" offset="0.6"/>
+   <stop stop-color="#56b684" offset="0.69"/>
+   <stop stop-color="#52b68e" offset="0.76"/>
+   <stop stop-color="#50b89f" offset="0.83"/>
+   <stop stop-color="#47bab8" offset="0.9"/>
+   <stop stop-color="#38bcd9" offset="0.97"/>
+   <stop stop-color="#2bbdec" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="0.24736" x2="0.89235" y1="1.06453" x1="0.48353" id="linear-gradient-3">
+   <stop stop-color="#56b681" offset="0"/>
+   <stop stop-color="#58b680" offset="0.16"/>
+   <stop stop-color="#5cb77e" offset="0.3"/>
+   <stop stop-color="#64b87a" offset="0.44"/>
+   <stop stop-color="#72bc78" offset="0.56"/>
+   <stop stop-color="#86c172" offset="0.69"/>
+   <stop stop-color="#a3ca6b" offset="0.81"/>
+   <stop stop-color="#cdda6a" offset="0.93"/>
+   <stop stop-color="#f0e964" offset="1"/>
+  </linearGradient>
+  <linearGradient x1="-0.21502" y2="-0.19249" x2="1.01105" y1="1.8519" id="linear-gradient-4">
+   <stop stop-color="#56b681" offset="0"/>
+   <stop stop-color="#58b680" offset="0.06"/>
+   <stop stop-color="#5cb77e" offset="0.11"/>
+   <stop stop-color="#64b87a" offset="0.16"/>
+   <stop stop-color="#73bc78" offset="0.21"/>
+   <stop stop-color="#86c172" offset="0.25"/>
+   <stop stop-color="#89c271" offset="0.26"/>
+   <stop stop-color="#93c570" offset="0.5"/>
+   <stop stop-color="#b2d06c" offset="0.92"/>
+  </linearGradient>
+  <linearGradient y2="0.60885" x2="-0.34034" y1="0.60885" x1="1.294" id="linear-gradient-5">
+   <stop stop-color="#f5e952" offset="0.39"/>
+   <stop stop-color="#e5e357" offset="0.54"/>
+   <stop stop-color="#c0d567" offset="0.83"/>
+   <stop stop-color="#b2d06c" offset="0.92"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" fill="#3c3c3b" rx="7" height="25" width="80.9" class="cls-1"/>
+  <text id="svg_2" fill="#fff" font-family="ArialMT, Arial" font-size="13.59px" transform="translate(24.3 17.67) scale(0.99 1)" class="cls-2">Pycharm</text>
+  <polygon id="svg_3" fill="url(#linear-gradient)" points="17.42 5.8 23.14 10.54 21.06 14.73 17.64 13.78 14.64 13.78 17.42 5.8" class="cls-3"/>
+  <polygon id="svg_4" fill="url(#linear-gradient-2)" points="11.64 8.89 10.54 14.73 10.45 16.75 7.64 17.94 3.69 18.37 4.88 5.71 12.07 2.71 16.48 5.62 11.64 8.89" class="cls-4"/>
+  <polygon id="svg_5" fill="url(#linear-gradient-3)" points="11.64 8.89 12.19 20.18 10.39 22.29 3.69 18.37 9.2 10.14 11.64 8.89" class="cls-5"/>
+  <polygon id="svg_6" fill="url(#linear-gradient-4)" points="19.05 8.06 12.26 8.06 18.25 2.71 19.05 8.06" class="cls-6"/>
+  <polygon id="svg_7" fill="url(#linear-gradient-5)" points="23.27 20.21 17.3 22.26 9.35 20.02 11.64 8.89 12.56 8.06 17.42 7.61 16.96 12.47 20.82 10.97 23.27 20.21" class="cls-7"/>
+  <rect id="svg_8" fill="#010101" height="12.23" width="12.23" y="6.38" x="7.36" class="cls-8"/>
+  <path id="svg_9" fill="#fff" d="m8.52,16.32l4.59,0l0,0.77l-4.59,0l0,-0.77zm0,-8.35l2.08,0a1.72,1.72 0 0 1 1.93,1.75a1.81,1.81 0 0 1 -2,1.77l-0.86,0l0,1.53l-1.1,0l0,-5.05l-0.05,0zm2.87,1.81c0,-0.49 -0.33,-0.77 -0.91,-0.77l-0.86,0l0,1.56l0.89,0a0.78,0.78 0 0 0 0.85,-0.79l0.03,0zm1.56,0.76a2.6,2.6 0 0 1 2.63,-2.63a2.51,2.51 0 0 1 2,0.8l-0.7,0.82a1.89,1.89 0 0 0 -1.29,-0.58a1.6,1.6 0 0 0 0,3.18a1.93,1.93 0 0 0 1.35,-0.58l0.7,0.71a2.62,2.62 0 0 1 -2.08,0.91a2.59,2.59 0 0 1 -1.85,-0.77a2.66,2.66 0 0 1 -0.79,-1.86l0.03,0z" class="cls-9"/>
+ </g>
+</svg>

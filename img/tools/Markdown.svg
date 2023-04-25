@@ -1,0 +1,9 @@
+<svg width="88.51" height="25" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" fill="#3c3c3b" rx="7" height="25" width="88.51" class="cls-1"/>
+  <text id="svg_2" font-family="ArialMT, Arial" fill="#fff" font-size="13.59px" transform="translate(23.78 17.67) scale(0.99 1)" class="cls-2">Markdown</text>
+  <path id="svg_3" fill="#010101" d="m21.2,18.65l-17.13,0a1.43,1.43 0 0 1 -1.41,-1.45l0,-9.4a1.43,1.43 0 0 1 1.41,-1.44l17.1,0a1.44,1.44 0 0 1 1.44,1.44l0,9.4a1.44,1.44 0 0 1 -1.44,1.44l0.03,0.01zm-13.74,-2.88l0,-3.75l1.92,2.41l1.92,-2.41l0,3.75l1.92,0l0,-6.57l-1.92,0l-1.92,2.4l-1.92,-2.4l-1.92,0l0,6.53l1.92,0.04zm12.87,-3.27l-1.92,0l0,-3.3l-1.92,0l0,3.3l-1.92,0l2.88,3.37l2.88,-3.37z" class="cls-3"/>
+ </g>
+</svg>

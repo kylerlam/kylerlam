@@ -1,0 +1,33 @@
+<svg width="60.91" height="25" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient y2="0.52392" x2="0.73903" y1="1.46558" x1="0.26624" id="linear-gradient">
+   <stop stop-color="#0995d3" offset="0.1"/>
+   <stop stop-color="#3387c8" offset="0.3"/>
+   <stop stop-color="#5876b9" offset="0.62"/>
+   <stop stop-color="#6a6eb2" offset="0.86"/>
+   <stop stop-color="#716baf" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="-0.13622" x2="0.68648" y1="0.36973" x1="0.13986" id="linear-gradient-2">
+   <stop stop-color="#0995d3" offset="0.12"/>
+   <stop stop-color="#497fc1" offset="0.42"/>
+   <stop stop-color="#676fb3" offset="0.7"/>
+   <stop stop-color="#716baf" offset="0.83"/>
+  </linearGradient>
+  <linearGradient y2="-0.01171" x2="0.76243" y1="0.9192" x1="-0.16793" id="linear-gradient-3">
+   <stop stop-color="#af5ea1" offset="0.11"/>
+   <stop stop-color="#d1609b" offset="0.21"/>
+   <stop stop-color="#e1725c" offset="0.43"/>
+   <stop stop-color="#ef7f31" offset="0.6"/>
+   <stop stop-color="#f18519" offset="0.74"/>
+   <stop stop-color="#f18816" offset="0.82"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" fill="#3c3c3b" rx="7" height="25" width="60.91" class="cls-1"/>
+  <text id="svg_2" font-family="ArialMT, Arial" fill="#fff" font-size="13.59px" transform="translate(24.27 17.67) scale(0.99 1)" class="cls-2">Kotlin</text>
+  <polygon id="svg_3" fill="url(#linear-gradient)" points="4.3 21.04 12.88 12.47 21.39 21.04 4.3 21.04" class="cls-3"/>
+  <polygon id="svg_4" fill="url(#linear-gradient-2)" points="4.3 3.96 12.88 3.96 4.3 13.21 4.3 3.96" class="cls-4"/>
+  <polygon id="svg_5" fill="url(#linear-gradient-3)" points="12.88 3.96 4.3 12.98 4.3 21.04 12.88 12.47 21.39 3.96 12.88 3.96" class="cls-5"/>
+ </g>
+</svg>
