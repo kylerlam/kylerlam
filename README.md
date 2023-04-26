@@ -63,11 +63,11 @@ still making them
 ## 8.Honors and Awards:
 still making them
 
-[![YouTube](https://github.com/monsterchick/Introduction/blob/main/img/social_media/YouTube.svg)](https://www.youtube.com/channel/UCa31fpxbPWf8tQwQpsUSD5w)
-[![Instagram](https://github.com/monsterchick/Introduction/blob/main/img/social_media/Instagram.svg)](https://www.instagram.com/khooo_lam/)
-[![Linkedin](https://github.com/monsterchick/Introduction/blob/main/img/social_media/Linkedin.svg)](https://www.youtube.com/channel/UCa31fpxbPWf8tQwQpsUSD5w)
-[![Gmail](https://github.com/monsterchick/Introduction/blob/main/img/social_media/Gmail.svg)]()
-[![Email](https://github.com/monsterchick/Introduction/blob/main/img/social_media/Instagram.svg)]()
-[![Twitter](https://github.com/monsterchick/Introduction/blob/main/img/social_media/Twitter.svg)]()
-[![Facebook](https://github.com/monsterchick/Introduction/blob/main/img/social_media/Facebook.svg)]()
+[![YouTube](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/YouTube.svg)](https://www.youtube.com/channel/UCa31fpxbPWf8tQwQpsUSD5w)
+[![Instagram](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/Instagram.svg)](https://www.instagram.com/khooo_lam/)
+[![Linkedin](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/Linkedin.svg)](https://www.youtube.com/channel/UCa31fpxbPWf8tQwQpsUSD5w)
+[![Gmail](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/Gmail.svg)]()
+[![Email](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/Instagram.svg)]()
+[![Twitter](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/Twitter.svg)]()
+[![Facebook](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/Facebook.svg)]()
 
