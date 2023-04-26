@@ -18,7 +18,7 @@ I am currently a second-year software engineering student at a university in the
 ## 4.Development Skills
 
 ### Languages:
-![Python](https://github.com/monsterchick/Introduction/blob/main/img/languages/Python.svg)
+![Python](https://github.com/monsterchick/monsterchick/blob/main/img/languages/Python.svg)
 ![Java](https://github.com/monsterchick/Introduction/blob/main/img/languages/Java.svg)
 ![Kotlin](https://github.com/monsterchick/Introduction/blob/main/img/languages/Kotlin.svg)
 
