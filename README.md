@@ -43,10 +43,10 @@ I am currently a second-year software engineering student at a university in the
 
 ### 
 ![Visual Studio Code](https://github.com/monsterchick/monsterchick/tree/main/img/IDE/Visual_Studio_Code.svg)
-![Pycharm](https://github.com/monsterchick/monsterchick/tree/main/img/IDE/Pycharm.svg)
-![Android Studio](https://github.com/monsterchick/monsterchick/tree/main/img/IDE/Android_Studio.svg)
-![Intellij IDE](https://github.com/monsterchick/monsterchick/tree/main/img/IDE/IntelliJ_IDEA.svg)
-![Jupyter](https://github.com/monsterchick/monsterchick/tree/main/img/IDE/Jupyter.svg)
+![Pycharm](https://github.com/monsterchick/monsterchick/blob/main/img/IDE/Pycharm.svg)
+![Android Studio](https://github.com/monsterchick/monsterchick/blob/main/img/IDE/Android_Studio.svg)
+![Intellij IDE](https://github.com/monsterchick/monsterchick/blob/main/img/IDE/IntelliJ_IDEA.svg)
+![Jupyter](https://github.com/monsterchick/monsterchick/blob/main/img/IDE/Jupyter.svg)
 
 ## 5.Open Source Projects:
   1.
