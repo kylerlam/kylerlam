@@ -42,7 +42,7 @@ I am currently a second-year software engineering student at a university in the
 ![Office](https://github.com/monsterchick/monsterchick/blob/main/img/design/Office.svg)
 
 ### 
-![Visual Studio Code](https://github.com/monsterchick/monsterchick/tree/main/img/IDE/Visual_Studio_Code.svg)
+![Visual Studio Code](https://github.com/monsterchick/monsterchick/blob/main/img/IDE/Visual_Studio_Code.svg)
 ![Pycharm](https://github.com/monsterchick/monsterchick/blob/main/img/IDE/Pycharm.svg)
 ![Android Studio](https://github.com/monsterchick/monsterchick/blob/main/img/IDE/Android_Studio.svg)
 ![Intellij IDE](https://github.com/monsterchick/monsterchick/blob/main/img/IDE/IntelliJ_IDEA.svg)
