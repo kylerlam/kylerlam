@@ -23,30 +23,30 @@ I am currently a second-year software engineering student at a university in the
 ![Kotlin](https://github.com/monsterchick/Introduction/blob/main/img/languages/Kotlin.svg)
 
 ### Web technology:
-![HTML](https://github.com/monsterchick/Introduction/blob/main/img/web_tech/HTML.svg)
-![CSS](https://github.com/monsterchick/Introduction/blob/main/img/web_tech/CSS.svg)
-![JavaScript](https://github.com/monsterchick/Introduction/blob/main/img/web_tech/JavaScript.svg)
+![HTML](https://github.com/monsterchick/monsterchick/tree/main/img/web_tech/HTML.svg)
+![CSS](https://github.com/monsterchick/monsterchick/tree/main/img/web_tech/CSS.svg)
+![JavaScript](https://github.com/monsterchick/monsterchick/tree/main/img/web_tech/JavaScript.svg)
 
 ### Database:
-![SQLite](https://github.com/monsterchick/Introduction/blob/main/img/DB/SQLite.svg)
-![MySQL](https://github.com/monsterchick/Introduction/blob/main/img/DB/MySQL.svg)
+![SQLite](https://github.com/monsterchick/monsterchick/tree/main/img/DB/SQLite.svg)
+![MySQL](https://github.com/monsterchick/monsterchick/tree/main/img/DB/MySQL.svg)
 
 ### Tools:
-![Docker](https://github.com/monsterchick/Introduction/blob/main/img/tools/Docker.svg)
-![Markdown](https://github.com/monsterchick/Introduction/blob/main/img/tools/Markdown.svg)
-![Git](https://github.com/monsterchick/Introduction/blob/main/img/tools/Git.svg)
+![Docker](https://github.com/monsterchick/monsterchick/tree/main/img/tools/Docker.svg)
+![Markdown](https://github.com/monsterchick/monsterchick/tree/main/img/tools/Markdown.svg)
+![Git](https://github.com/monsterchick/monsterchick/tree/main/img/tools/Git.svg)
 
 ### Design:
-![Photoshop](https://github.com/monsterchick/Introduction/blob/main/img/design/Photoshop.svg)
-![Illustrator](https://github.com/monsterchick/Introduction/blob/main/img/design/Illustrator.svg)
-![Office](https://github.com/monsterchick/Introduction/blob/main/img/design/Office.svg)
+![Photoshop](https://github.com/monsterchick/monsterchick/tree/main/img/design/Photoshop.svg)
+![Illustrator](https://github.com/monsterchick/monsterchick/tree/main/img/design/Illustrator.svg)
+![Office](https://github.com/monsterchick/monsterchick/tree/main/img/design/Office.svg)
 
 ### 
-![Visual Studio Code](https://github.com/monsterchick/Introduction/blob/main/img/IDE/Visual_Studio_Code.svg)
-![Pycharm](https://github.com/monsterchick/Introduction/blob/main/img/IDE/Pycharm.svg)
-![Android Studio](https://github.com/monsterchick/Introduction/blob/main/img/IDE/Android_Studio.svg)
-![Intellij IDE](https://github.com/monsterchick/Introduction/blob/main/img/IDE/IntelliJ_IDEA.svg)
-![Jupyter](https://github.com/monsterchick/Introduction/blob/main/img/IDE/Jupyter.svg)
+![Visual Studio Code](https://github.com/monsterchick/monsterchick/tree/main/img/IDE/Visual_Studio_Code.svg)
+![Pycharm](https://github.com/monsterchick/monsterchick/tree/main/img/IDE/Pycharm.svg)
+![Android Studio](https://github.com/monsterchick/monsterchick/tree/main/img/IDE/Android_Studio.svg)
+![Intellij IDE](https://github.com/monsterchick/monsterchick/tree/main/img/IDE/IntelliJ_IDEA.svg)
+![Jupyter](https://github.com/monsterchick/monsterchick/tree/main/img/IDE/Jupyter.svg)
 
 ## 5.Open Source Projects:
   1.
