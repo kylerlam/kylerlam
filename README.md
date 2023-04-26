@@ -19,13 +19,13 @@ I am currently a second-year software engineering student at a university in the
 
 ### Languages:
 ![Python](https://github.com/monsterchick/monsterchick/blob/main/img/languages/Python.svg)
-![Java](https://github.com/monsterchick/Introduction/blob/main/img/languages/Java.svg)
-![Kotlin](https://github.com/monsterchick/Introduction/blob/main/img/languages/Kotlin.svg)
+![Java](https://github.com/monsterchick/monsterchick/blob/main/img/languages/Java.svg)
+![Kotlin](https://github.com/monsterchick/monsterchick/blob/main/img/languages/Kotlin.svg)
 
 ### Web technology:
-![HTML](https://github.com/monsterchick/monsterchick/tree/main/img/web_tech/HTML.svg)
-![CSS](https://github.com/monsterchick/monsterchick/tree/main/img/web_tech/CSS.svg)
-![JavaScript](https://github.com/monsterchick/monsterchick/tree/main/img/web_tech/JavaScript.svg)
+![HTML](https://github.com/monsterchick/monsterchick/blob/main/img/web_tech/HTML.svg)
+![CSS](https://github.com/monsterchick/monsterchick/blob/main/img/web_tech/CSS.svg)
+![JavaScript](https://github.com/monsterchick/monsterchick/blob/main/img/web_tech/JavaScript.svg)
 
 ### Database:
 ![SQLite](https://github.com/monsterchick/monsterchick/tree/main/img/DB/SQLite.svg)
