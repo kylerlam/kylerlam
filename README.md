@@ -6,6 +6,7 @@ I am currently a second-year software engineering student at a university in the
 ## 2.My status:
 | Todo | Doing | Done | Completion Date |
 | ---- | ----- | ---- | --------------- |
+|  |  | crawl openemoji | 2023-5-17 |
 | looking for a internship | preparing exam in college |  |  |
 | 志远js reverse crawler course |  |  |  |
 | study the Butterfly Option Strategy |  |  |  |
