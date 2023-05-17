@@ -4,8 +4,8 @@
 I am currently a second-year software engineering student at a university in the UK. I am very interested in web scraping and am currently learning the Scrapy web scraping framework. I also frequently work with Linux systems. My goal is to become a full-stack developer in the future.
 
 ## 2.My status:
-| Todo's | Doing | Done | Completion Date |
-| ------ | ----- | ---- | --------------- |
+| Todo | Doing | Done | Completion Date |
+| ---- | ----- | ---- | --------------- |
 | looking for a internship | preparing exam in college |  |  |
 | 志远js reverse crawler course |  |  |  |
 | study the Butterfly Option Strategy |  |  |  |
