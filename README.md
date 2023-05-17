@@ -3,19 +3,34 @@
 ## 1.Introduction:
 I am currently a second-year software engineering student at a university in the UK. I am very interested in web scraping and am currently learning the Scrapy web scraping framework. I also frequently work with Linux systems. My goal is to become a full-stack developer in the future.
 
-## 2.What am I doing recently?
-- looking for a internship
-- studying scrapy
-- studying docker
-- doing assignment
-- practicing sqlite
+## 2.My status:
+| Todo's | Doing | Done |
+| ------ | ----- | ---- |
+| looking for a internship | preparing exam in college |  |
+| 志远js reverse crawler course |  |  |
+| study the Butterfly Option Strategy |  |  |
+| git version control and revert |  |  |
+| study node.js on w3school |  |  |
+| do a favour for a friend about mini programe |  |  |
+| study scrapy |  |  |
+| quantitative trading of stocks|  |  |
+| finish python project of stock recording system with database |  |  |
+| learn full-stack development vue+django+mysql |  |  |
+| familiar java syntax and finish at least two side projects|  |  |
+| using api of robot(wechat, whatsapp etc) |  |  |
+| leetcode practices |  |  |
+
+
+
+　　°　　　　☀·　　　　🛸　　　 　🌏　°　　🌓　•　　.°•　　　🚀 ✯✯　　　★　*°　　　　🛰　°·　　.　　　•　°★　•▁▂▃▄▅▆▇▇▆▅▄▃▁▂▃.
 
 ## 3.Habit:
-- travel
-- animal
-- web scrawler
+* travel
+* animal
+* web scrawler
+* Planning to run a channel on YouTube on summer holiday.
 
-## 4.Development Skills
+## 4.Development Skills:
 
 ### Languages:
 ![Python](https://github.com/monsterchick/monsterchick/blob/main/img/languages/Python.svg)
@@ -53,16 +68,13 @@ I am currently a second-year software engineering student at a university in the
   2.
   3.
 
-## 6.Social Media Links:
-ig
-youtube
-
-## 7.Experience:
+## 6.Experience:
 still making them
 
-## 8.Honors and Awards:
+## 7.Honors and Awards:
 still making them
 
+## 8.Social Media Links:
 [![YouTube](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/YouTube.svg)](https://www.youtube.com/channel/UCa31fpxbPWf8tQwQpsUSD5w)
 [![Instagram](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/Instagram.svg)](https://www.instagram.com/khooo_lam/)
 [![Linkedin](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/Linkedin.svg)](https://www.youtube.com/channel/UCa31fpxbPWf8tQwQpsUSD5w)
