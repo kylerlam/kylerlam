@@ -4,25 +4,21 @@
 I am currently a second-year software engineering student at a university in the UK. I am very interested in web scraping and am currently learning the Scrapy web scraping framework. I also frequently work with Linux systems. My goal is to become a full-stack developer in the future.
 
 ## 2.My status:
-| Todo's | Doing | Done |
-| ------ | ----- | ---- |
-| looking for a internship | preparing exam in college |  |
-| 志远js reverse crawler course |  |  |
-| study the Butterfly Option Strategy |  |  |
-| git version control and revert |  |  |
-| study node.js on w3school |  |  |
-| do a favour for a friend about mini programe |  |  |
-| study scrapy |  |  |
-| quantitative trading of stocks|  |  |
-| finish python project of stock recording system with database |  |  |
-| learn full-stack development vue+django+mysql |  |  |
-| familiar java syntax and finish at least two side projects|  |  |
-| using api of robot(wechat, whatsapp etc) |  |  |
-| leetcode practices |  |  |
-
-
-
-　　°　　　　☀·　　　　🛸　　　 　🌏　°　　🌓　•　　.°•　　　🚀 ✯✯　　　★　*°　　　　🛰　°·　　.　　　•　°★　•▁▂▃▄▅▆▇▇▆▅▄▃▁▂▃.
+| Todo's | Doing | Done | Completion Date |
+| ------ | ----- | ---- | --------------- |
+| looking for a internship | preparing exam in college |  |  |
+| 志远js reverse crawler course |  |  |  |
+| study the Butterfly Option Strategy |  |  |  |
+| git version control and revert |  |  |  |
+| study node.js on w3school |  |  |  |
+| do a favour for a friend about mini programe |  |  |  |
+| study scrapy |  |  |  |
+| quantitative trading of stocks|  |  |  |
+| finish python project of stock recording system with database |  |  |  |
+| learn full-stack development vue+django+mysql |  |  |  |
+| familiar java syntax and finish at least two side projects|  |  |  |
+| using api of robot(wechat, whatsapp etc) |  |  |  |
+| leetcode practices |  |  |  |
 
 ## 3.Habit:
 * travel
