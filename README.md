@@ -5,11 +5,8 @@ I am currently a second-year software engineering student at a university in the
 
 ## My status
 Todo's
-- ~~Crawl openemoji~~ done by 2023-5-17
 - looking for a internship
-- Studying 志远js reverse crawler course
 - Studying Option Strategy
-- Studying node.js on w3school
 - Studying scrapy framework
 - Studying full-stack development vue+django+mysql
 - leetcode practices
@@ -19,6 +16,7 @@ Todo's
 - 🐶Animal🐶
 - 🕸️Web Crawler🕸️
 - 🎥Video Editing🎥
+- 🎸Guitar🎸
 
 ## Development Skills
 
