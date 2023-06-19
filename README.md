@@ -25,6 +25,9 @@ Todo's
 ![Java](https://github.com/monsterchick/monsterchick/blob/main/img/languages/Java.svg)
 ![Kotlin](https://github.com/monsterchick/monsterchick/blob/main/img/languages/Kotlin.svg)
 
+### Framework
+
+
 ### Web technology:
 ![HTML](https://github.com/monsterchick/monsterchick/blob/main/img/web_tech/HTML.svg)
 ![CSS](https://github.com/monsterchick/monsterchick/blob/main/img/web_tech/CSS.svg)
@@ -44,7 +47,7 @@ Todo's
 ![Illustrator](https://github.com/monsterchick/monsterchick/blob/main/img/design/Illustrator.svg)
 ![Office](https://github.com/monsterchick/monsterchick/blob/main/img/design/Office.svg)
 
-### 
+### IDE
 ![Visual Studio Code](https://github.com/monsterchick/monsterchick/blob/main/img/IDE/Visual_Studio_Code.svg)
 ![Pycharm](https://github.com/monsterchick/monsterchick/blob/main/img/IDE/Pycharm.svg)
 ![Android Studio](https://github.com/monsterchick/monsterchick/blob/main/img/IDE/Android_Studio.svg)
