@@ -17,6 +17,7 @@ Todo's
 - 🕸️Web Crawler🕸️
 - 🎥Video Editing🎥
 - 🎸Guitar🎸
+- 💰Investment💰
 
 ## Development Skills
 
