@@ -5,11 +5,11 @@ I am currently a second-year software engineering student at a university in the
 
 ## My status
 Todo's
-- looking for a internship
+- l Learning JAVA myself
 - Studying Option Strategy
 - Studying scrapy framework
-- Studying full-stack development vue+django+mysql
-- leetcode practices
+- Studying full-stack development vue + django + mysql
+- Doing leetcode excercise every day
 
 ## Habit
 - ✈️Travel✈️
