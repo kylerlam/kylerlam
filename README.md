@@ -1,15 +1,15 @@
 # About me
 
 ## Introduction
-I am currently a second-year software engineering student at a university in the UK. I am very interested in web scraping and am currently learning the Scrapy web scraping framework. I also frequently work with Linux systems. My goal is to become a full-stack developer in the future.
+- Software Engineering Degree
+- full-stack development fans
+- web spider fans
+- stay positive in life
 
 ## My status
 Todo's
-- l Learning JAVA myself
-- Studying Option Strategy
-- Studying scrapy framework
-- Studying full-stack development vue + django + mysql
-- Doing leetcode excercise every day
+- Studying full-stack development vue + Django + MySQL
+- Doing leetcode exercise every day
 
 ## Habit
 - ✈️Travel✈️
@@ -56,15 +56,9 @@ Todo's
 ![Jupyter](https://github.com/monsterchick/monsterchick/blob/main/img/IDE/Jupyter.svg)
 
 ## Open Source Projects
-  1.
+  1. student_management_system
   2.
   3.
-
-## Experience
-still making them
-
-## Honors and Awards
-still making them
 
 ## Social Media Links
 [![YouTube](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/YouTube.svg)](https://www.youtube.com/channel/UCa31fpxbPWf8tQwQpsUSD5w)
