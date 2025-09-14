@@ -9,8 +9,7 @@
 
 ## My status
 Todo's
-- Studying full-stack development vue + Django + MySQL
-- Doing leetcode exercise every day
+- Django
 
 ## Habit
 - ✈️Travel✈️
