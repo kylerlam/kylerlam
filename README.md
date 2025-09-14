@@ -5,7 +5,7 @@
 - full-stack development fans
 - web spider fans
 - stay positive in life
-- the project I am holding: [project link](http://165.232.166.136/#/)
+- the project I am holding: [project link](http://165.232.166.136/#/) user: admin; password: 123123
 
 ## My status
 Todo's
