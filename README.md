@@ -56,11 +56,6 @@ Todo's
 ![Intellij IDE](https://github.com/monsterchick/monsterchick/blob/main/img/IDE/IntelliJ_IDEA.svg)
 ![Jupyter](https://github.com/monsterchick/monsterchick/blob/main/img/IDE/Jupyter.svg)
 
-## Open Source Projects
-  1. student_management_system
-  2. openmojiSpider
-  3.
-
 ## Social Media Links
 [![YouTube](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/YouTube.svg)](https://www.youtube.com/channel/UCa31fpxbPWf8tQwQpsUSD5w)
 [![Instagram](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/Instagram.svg)](https://www.instagram.com/khooo_lam/)
