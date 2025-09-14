@@ -57,7 +57,7 @@ Todo's
 ![Jupyter](https://github.com/monsterchick/monsterchick/blob/main/img/IDE/Jupyter.svg)
 
 ## Social Media Links
-[![YouTube](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/YouTube.svg)](https://www.youtube.com/channel/UCa31fpxbPWf8tQwQpsUSD5w)
+[![YouTube](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/YouTube.svg)]()
 [![Instagram](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/Instagram.svg)](https://www.instagram.com/khooo_lam/)
 [![Linkedin](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/Linkedin.svg)](https://www.youtube.com/channel/UCa31fpxbPWf8tQwQpsUSD5w)
 [![Gmail](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/Gmail.svg)]()
