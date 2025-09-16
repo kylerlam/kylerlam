@@ -1,15 +1,18 @@
 # About me
 
 ## Introduction
-- Software Engineering Degree
-- full-stack development fans
-- web spider fans
-- stay positive in life
+- BCs in Software Engineering
+- Committed to being a full-stack developer
+- Web spider fans
 - the project I am holding: [project link](http://165.232.166.136/#/) user: admin; password: 123123
 
 ## My status
-Todo's
+### Working
+- Looking for a position as a web developer
+### Learning
 - Django
+- React
+- PHP
 
 ## Habit
 - ✈️Travel✈️
