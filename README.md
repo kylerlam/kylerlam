@@ -1,68 +1,106 @@
-# About me
+<div align="center">
+<h1>Hi 👋, I'm Kyler</h1>
+<h3>Full-Stack Developer & Web Scraping Enthusiast</h3>
+<p>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="assets/Linkedin.svg" height="30" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="kwanho.job@gmail.com">
+    <img src="assets/Gmail.svg" height="30" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+</p>
+</div>
 
-## Introduction
-- BCs in Software Engineering
-- Committed to being a full-stack developer
-- Web spider fans
-- the project I am holding: [project link](http://165.232.166.136/#/) user: admin; password: 123123
+## 😃‍💻 Introduction
+- 🎓 BSc in Software Engineering
+- 💼 Committed to becoming a full-stack developer
+- 🕷️ Web crawler enthusiast
+- 🖥️ Current project: [Live Demo](http://165.232.166.136/#/) — `user: admin` / `password: 123123`
 
-## My status
-### Working
-- Looking for a position as a web developer
-### Learning
-- Django
+---
+
+## ⌚ My Status
+
+### 👨‍💻 Working
+- Actively seeking a **Web Developer** position
+
+### 📚 Learning
+- SpringBoot
 - React
-- PHP
 
-## Habit
-- ✈️Travel✈️
-- 🐶Animal🐶
-- 🕸️Web Crawler🕸️
-- 🎥Video Editing🎥
-- 🎸Guitar🎸
-- 💰Investment💰
+---
 
-## Development Skills
+## 😋️ Habit
+- ✈️ Travel
+- 🐠 Animal
+- 🕸️ Web Crawling
+- 🎥 Video Editing
+- 🎸 Guitar
+- 💰 Investment
 
-### Languages:
-![Python](https://github.com/monsterchick/monsterchick/blob/main/img/languages/Python.svg)
-![Java](https://github.com/monsterchick/monsterchick/blob/main/img/languages/Java.svg)
-![Kotlin](https://github.com/monsterchick/monsterchick/blob/main/img/languages/Kotlin.svg)
+---
 
-### Framework
+## 💻 Technical Skills
 
+### 🐍 Programming Languages
+[![Python](assets/Python.svg)](https://www.python.org)
+[![Java](assets/Java.svg)](https://www.java.com)
+[![Kotlin](assets/Kotlin.svg)](https://kotlinlang.org)
 
-### Web technology:
-![HTML](https://github.com/monsterchick/monsterchick/blob/main/img/web_tech/HTML.svg)
-![CSS](https://github.com/monsterchick/monsterchick/blob/main/img/web_tech/CSS.svg)
-![JavaScript](https://github.com/monsterchick/monsterchick/blob/main/img/web_tech/JavaScript.svg)
+---
 
-### Database:
-![SQLite](https://github.com/monsterchick/monsterchick/blob/main/img/DB/SQLite.svg)
-![MySQL](https://github.com/monsterchick/monsterchick/blob/main/img/DB/MySQL.svg)
+### ✨ Frontend Development
+[![HTML](assets/HTML.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](assets/CSS.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](assets/JavaScript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Vue.js](assets/Vue.js.svg)](https://vuejs.org)
+[![Element](assets/Element.svg)](https://element-plus.org/en-US/)
 
-### Tools:
-![Docker](https://github.com/monsterchick/monsterchick/blob/main/img/tools/Docker.svg)
-![Markdown](https://github.com/monsterchick/monsterchick/blob/main/img/tools/Markdown.svg)
-![Git](https://github.com/monsterchick/monsterchick/blob/main/img/tools/Git.svg)
+---
 
-### Design:
-![Photoshop](https://github.com/monsterchick/monsterchick/blob/main/img/design/Photoshop.svg)
-![Illustrator](https://github.com/monsterchick/monsterchick/blob/main/img/design/Illustrator.svg)
-![Office](https://github.com/monsterchick/monsterchick/blob/main/img/design/Office.svg)
+### ⚙️ Backend & Frameworks
+[![Node.js](assets/Node.js.svg)](https://nodejs.org)
+[![Flask](assets/Flask.svg)](https://flask.palletsprojects.com)
 
-### IDE
-![Visual Studio Code](https://github.com/monsterchick/monsterchick/blob/main/img/IDE/Visual_Studio_Code.svg)
-![Pycharm](https://github.com/monsterchick/monsterchick/blob/main/img/IDE/Pycharm.svg)
-![Android Studio](https://github.com/monsterchick/monsterchick/blob/main/img/IDE/Android_Studio.svg)
-![Intellij IDE](https://github.com/monsterchick/monsterchick/blob/main/img/IDE/IntelliJ_IDEA.svg)
-![Jupyter](https://github.com/monsterchick/monsterchick/blob/main/img/IDE/Jupyter.svg)
+---
 
-## Social Media Links
-[![YouTube](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/YouTube.svg)]()
-[![Instagram](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/Instagram.svg)](https://www.instagram.com/khooo_lam/)
-[![Linkedin](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/Linkedin.svg)](https://www.youtube.com/channel/UCa31fpxbPWf8tQwQpsUSD5w)
-[![Gmail](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/Gmail.svg)]()
-[![Twitter](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/Twitter.svg)]()
-[![Facebook](https://github.com/monsterchick/monsterchick/blob/main/img/social_media/Facebook.svg)]()
+### 🗄️ Databases
+[![SQLite](assets/SQLite.svg)](https://www.sqlite.org)
+[![MySQL](assets/MySQL.svg)](https://www.mysql.com)
+[![MongoDB](assets/MongoDB.svg)](https://www.mongodb.com)
 
+---
+
+### 🛠️ Tools & DevOps
+[![Git](assets/Git.svg)](https://git-scm.com)
+[![Docker](assets/Docker.svg)](https://www.docker.com)
+[![Markdown](assets/Markdown.svg)](https://www.markdownguide.org)
+[![Trello](assets/Trello.svg)](https://trello.com)
+[![Gantt Chart](assets/Gantt Chart.svg)](https://en.wikipedia.org/wiki/Gantt_chart)
+
+---
+
+### 🎨 Design & Prototyping
+[![Figma](assets/Figma.svg)](https://www.figma.com)
+[![draw.io](assets/draw.io.svg)](https://www.drawio.com/)
+[![Photoshop](assets/Photoshop.svg)](https://www.adobe.com/products/photoshop.html)
+[![Illustrator](assets/Illustrator.svg)](https://www.adobe.com/products/illustrator.html)
+[![xmind](assets/xmind.svg)](https://www.xmind.net)
+
+---
+
+### 💻 IDE & Editors
+[![VS Code](assets/Visual_Studio_Code.svg)](https://code.visualstudio.com)
+[![PyCharm](assets/Pycharm.svg)](https://www.jetbrains.com/pycharm)
+[![Android Studio](assets/Android_Studio.svg)](https://developer.android.com/studio)
+[![IntelliJ IDEA](assets/IntelliJ_IDEA.svg)](https://www.jetbrains.com/idea)
+[![Jupyter](assets/Jupyter.svg)](https://jupyter.org)
+
+---
+
+### 🧾 Others
+[![Office](assets/Office.svg)](https://www.microsoft.com/en-us/microsoft-365)
+
+---
