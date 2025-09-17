@@ -78,7 +78,7 @@
 [![Docker](assets/Docker.svg)](https://www.docker.com)
 [![Markdown](assets/Markdown.svg)](https://www.markdownguide.org)
 [![Trello](assets/Trello.svg)](https://trello.com)
-[![Gantt Chart](assets/Gantt Chart.svg)](https://en.wikipedia.org/wiki/Gantt_chart)
+[![Gantt Chart](assets/Gantt_Chart.svg)](https://en.wikipedia.org/wiki/Gantt_chart)
 
 ---
 
