@@ -1,16 +1,10 @@
 <div align="center">
-<h1>Hi 👋, I'm Kyler</h1>
-<h3>Full-Stack Developer & Web Scraping Enthusiast</h3>
-<p>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="assets/Linkedin.svg" height="30" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:kwanho.job@gmail.com">
-    <img src="assets/Gmail.svg" height="30" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-</p>
+  <h1>Hi 👋, I'm Kyler</h1>
+  <h3>Full-Stack Developer & Web Scraping Enthusiast</h3>
+  <p>
+    <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="assets/Linkedin.svg" height="30" alt="LinkedIn" /></a>
+    <a href="mailto:kwanho.job@gmail.com"><img src="assets/Gmail.svg" height="30" alt="Gmail" /></a>
+  </p>
 </div>
 
 ## 😃‍💻 Introduction
