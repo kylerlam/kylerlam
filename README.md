@@ -6,7 +6,7 @@
     <img src="assets/Linkedin.svg" height="30" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="kwanho.job@gmail.com">
+  <a href="mailto:kwanho.job@gmail.com">
     <img src="assets/Gmail.svg" height="30" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
