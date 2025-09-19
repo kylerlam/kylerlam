@@ -3,7 +3,7 @@
   <h3>Full-Stack Developer & Web Scraping Enthusiast</h3>
   <p>
     <a href="mailto:kwanho.job@gmail.com"><img src="assets/Gmail.svg" height="30" alt="Gmail" /></a>
-    <a href="https://www.linkedin.com/in/kyler123/" target="_blank"><img src="assets/Linkedin.svg" height="30" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/kyler123/?locale=en_US" target="_blank"><img src="assets/Linkedin.svg" height="30" alt="LinkedIn" /></a>
   </p>
 </div>
 
